@@ -1,1 +1,5 @@
+name: Ale's Projects
+description: My recent projects
+url: "https://alejcarr.github.io/"
 theme: jekyll-theme-cayman
+markdown: kramdown
